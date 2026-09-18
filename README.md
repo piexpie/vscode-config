@@ -6,11 +6,12 @@ Minimal, opinionated VSCode settings.
 
 - **GREY-BLUE DARKNESS** color theme
 - **Ctrl + mouse wheel** to zoom editor text (like browsers)
+- **Alt + Left/Right arrows** to navigate go back / go forward
 
 ## Install
 
-Copy `settings.json` into your user settings:
+Copy `settings.json` and `keybindings.json` into your user config:
 
-- **Linux**: `~/.config/Code/User/settings.json`
-- **macOS**: `~/Library/Application Support/Code/User/settings.json`
-- **Windows**: `%APPDATA%\Code\User\settings.json`
+- **Linux**: `~/.config/Code/User/`
+- **macOS**: `~/Library/Application Support/Code/User/`
+- **Windows**: `%APPDATA%\Code\User\`
